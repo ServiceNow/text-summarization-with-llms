@@ -1,0 +1,13 @@
+git+https://github.com/haven-ai/haven-ai.git
+vllm
+requests
+langchain
+transformers
+sentence-transformers
+openai
+spacy
+pytorch_lightning
+transformers
+torch_optimizer
+rouge-score
+datasets
